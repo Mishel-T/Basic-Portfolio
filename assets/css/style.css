@@ -1,0 +1,35 @@
+.container {background:rgb(221, 219, 219);
+    overflow:auto;
+
+}
+
+.main {width:960px;
+    margin:0 auto;
+    border:2px dashed black;
+    background-color: white;
+    overflow:auto;
+
+}
+
+header {background: #4aaaa5;
+        color:white;
+        width: 20%;
+        height:10%;
+        margin-bottom: 0;
+        display: inline-block
+}
+
+nav {float:right;
+    margin-bottom:0;
+    color:#cccccc;
+}
+
+h2 {color:#4aaaa5
+}
+
+#bio-image {float:left;
+}
+
+footer {clear:both;
+    text-align:center;
+}
